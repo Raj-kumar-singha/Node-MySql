@@ -1,9 +1,7 @@
-
 # Node-Mysql-Project
 
 This is my Node project using the MYSQL database, Here I just simply showed the basic things in this Project.
 How to do Add/Delete/Edit products in the Websites as well as in the database also, I am showing this thing in this Project.
-
 
 
 
@@ -25,6 +23,7 @@ Here I am sharing a few official websites that are helped me a lot in my learnin
  - [NodeJs](https://nodejs.org/dist/latest-v19.x/docs/api/https://nodejs.org/dist/latest-v19.x/docs/api/, "node docs")
 
 
+
 ## Installation
 
 In my project i am Install (nodemon) for devDependencies: -
@@ -35,6 +34,9 @@ For dependencies i am Install (body-parser,ejs,express,mysql2): -
 ```bash
   npm i --save body-parser ejs express mysql2
 ```
+
+
+
 ### Difference between SQL and NoSQL Database
 
 | SQL | NOSQL |
